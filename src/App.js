@@ -1,9 +1,6 @@
-
+import MainRouter from "./router";
 function App() {
-  return (
-  <h1>hi</h1>
-         
-  );
+  return <MainRouter />;
 }
 
 export default App;
